@@ -519,6 +519,13 @@ registration page styling
     font-weight: bolder;
 }
 
+.card .reg-price span{
+    text-decoration: line-through;
+    font-size: 1.3rem;
+    color: rgb(253, 68, 68);
+    font-weight: 500;
+}
+
 .card h1 {
     margin: .3rem 0;
     padding: 0 .4rem;
